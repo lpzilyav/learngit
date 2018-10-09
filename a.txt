@@ -1,2 +1,3 @@
 add test  添加内存,然后同步到远程库上
-当前在master分支上
+当前在master or feature1 分支上
+
